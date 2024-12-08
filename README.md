@@ -23,5 +23,3 @@ layout:
 Bienvenue dans la documentation de Nasti Heberg !
 
 Vous pouvez trouvez tout type d'aide afin de configuré votre serveur de jeux comme vous le souhaitez !
-
-### Jump right in
